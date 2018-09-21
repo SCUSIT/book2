@@ -1,5 +1,5 @@
 --- 
-title: "QGIS灾害制图与应急管理"
+title: "QGIS灾害风险制图与应急管理-国际减灾与应急管理丛书"
 author: "田兵伟"
 date: "`r Sys.Date()`"
 documentclass: ctexbook
@@ -9,7 +9,7 @@ link-citations: yes
 colorlinks: yes
 lot: yes
 lof: yes
-geometry: [b5paper, tmargin=2.5cm, bmargin=2.5cm, lmargin=3.5cm, rmargin=2.5cm]
+geometry: [a4paper, tmargin=2.5cm, bmargin=2.5cm, lmargin=3.5cm, rmargin=2.5cm]
 site: bookdown::bookdown_site
 description: "一本QGIS书。"
 github-repo: SCUSIT/book2
@@ -37,7 +37,7 @@ lapply(c(), function(pkg) {
 sessionInfo()
 ```
 
-## 致谢 {-}
+# 致谢 {-}
 
 非常感谢四川大学研究院给予经费支持
 
